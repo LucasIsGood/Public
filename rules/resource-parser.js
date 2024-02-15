@@ -1,3 +1,8 @@
+/**
+
+*/
+
+
 //beginning 解析器正常使用，调试注释此部分
 
 let [link0, content0, subinfo] = [$resource.link, $resource.content, $resource.info]
