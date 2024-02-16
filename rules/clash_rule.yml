@@ -164,6 +164,7 @@
   rules:
     # onedrive直连
     - DOMAIN-SUFFIX,microsoft.com,DIRECT
+    - DOMAIN-SUFFIX,storage.live.com,DIRECT
     - DOMAIN-SUFFIX,onedrive.com,DIRECT
     - DOMAIN-SUFFIX,mesh.com,DIRECT
     - DOMAIN-SUFFIX,sfx.ms,DIRECT
