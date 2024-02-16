@@ -118,7 +118,7 @@ server = 8.8.8.8
 
 
 [policy]
-static=Spotify, 🇭🇰 Hong Kong | 01, 🇭🇰 Hong Kong | 02, 🇭🇰 Hong Kong | 03, 🇭🇰 Hong Kong | 04, 🇭🇰 Hong Kong | 05, 🇭🇰 Hong Kong | 06, 🇭🇰 Hong Kong | 07, 🇭🇰 Hong Kong | 08, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Spotify.png
+url-latency-benchmark = Spotify, 🇭🇰 Hong Kong | 01, 🇭🇰 Hong Kong | 02, 🇭🇰 Hong Kong | 03, 🇭🇰 Hong Kong | 04, 🇭🇰 Hong Kong | 05, 🇭🇰 Hong Kong | 06, 🇭🇰 Hong Kong | 07, 🇭🇰 Hong Kong | 08, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Spotify.png
 
 
 
