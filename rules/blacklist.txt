@@ -1959,7 +1959,6 @@ title/.*特朗普*/
 *://cn.nytimes.com/*
 *://cn.wsj.com/*
 *://companies.caixin.com/*
-*://companies.caixin.com/*
 *://cpc.people.com.cn/*
 *://dushi.singtao.ca/*
 *://epaper.tianjinwe.com/*
@@ -2019,7 +2018,6 @@ title/.*特朗普*/
 *://wap.eastmoney.com/*
 *://weekly.caixin.com/*
 *://world.people.com.cn/*
-*://www.12371.cn/*
 *://www.12371.cn/*
 *://www.881903.com/*
 *://www.8world.com/*
