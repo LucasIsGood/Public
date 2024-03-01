@@ -1945,13 +1945,24 @@ title/.*mw93.com*/
 title/.*习近平*/
 title/.*习近平*/
 title/.*李克强*/
+title/.*李强*/
 title/.*江泽民*/
-title/.*胡景涛*/
+
+title/.*胡锦涛*/
 title/.*毛泽东*/
 title/.*邓小平*/
+
+title/.*蔡英文*/
+title/.*马英九*/
+title/.*蔣中正*/
+title/.*蔣介石*/
+
 title/.*拜登*/
 title/.*川普*/
 title/.*特朗普*/
+title/.*Joe Biden*/
+title/.*Donald Trump*/
+
 
 
 *://app.xinhuanet.com/*
