@@ -163,7 +163,6 @@ title/.*mw93.com*/
 *://7376.fun/*
 *://duoke360.com/*
 *://zditect.com/*
-*://www.tofacebook.com/*
 *://www.tabangni.com/*
 *://dwz.cn/*
 *://www.youxi369.com/*
@@ -730,7 +729,6 @@ title/.*mw93.com*/
 *://www.club666.net/*
 *://dg38.net/*
 *://rgwager.com/*
-*://www.facebook.com/*
 *://www.governmentfiling.com/*
 *://tk9981.com/*
 *://www.hugaslots.com/*
@@ -1352,7 +1350,6 @@ title/.*mw93.com*/
 *://www.thepurseaffair.com/*
 *://www.pax.com/*
 *://www.92yzy.com/*
-*://hi-in.facebook.com/*
 *://www.wolframalpha.com/*
 *://www.medway.gov.uk/*
 *://flightaware.com/*
@@ -1664,7 +1661,6 @@ title/.*mw93.com*/
 *://www.quely.es/*
 *://citywire.com/*
 *://www.concacaf.com/*
-*://sq-al.facebook.com/*
 *://m.tvmao.com/*
 *://kurshuni.com/*
 *://www.nfpeople.com/*
@@ -1729,7 +1725,6 @@ title/.*mw93.com*/
 *://www.farmer21.com/*
 *://www.gggwd.com/*
 *://www.awind.com.cn/*
-*://es-la.facebook.com/*
 *://www.poringa.net/*
 *://www.edem.g12.br/*
 *://www.idchg.com/*
@@ -1853,7 +1848,6 @@ title/.*mw93.com*/
 *://zztt11.com/*
 *://www.zku.net/*
 *://www.manchester.ac.uk/*
-*://ik-us.facebook.com/*
 *://www.palliser.com/*
 *://www.51fuman.com/*
 *://173.242.119.120/*
