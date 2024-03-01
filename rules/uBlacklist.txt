@@ -1,55 +1,3 @@
-title/.*Q-5220*/
-title/.* - .*视频搜索/
-title/.* - .*问答网/
-title/.* - .*生活百科/
-title/.* - .*导航/
-title/.*【复制*/
-title/.*\[复制\]*/
-title/^小.(百科|知识)网$/
-title/^.*[ ]-[ ]小.(百科|知识)网$/
-title/.*点击一次就可以出国/
-title/.*一键访问国外网站/
-title/.*人名查询:[ ]?.*(姓名|创始人)是(什么|谁)？-/
-title/.*娱乐城*/
-title/.*✔️*/
-title/.*㊙️️*/
-title/.*☀️️*/
-title/.*【 官网*/
-title/.*【 推荐*/
-title/.*义乌外围*/
-title/.*外围女*/
-title/.*小妹特别服务*/
-title/.*fakaID.com*/
-title/.代开[\u4e00-\u9fa5]+发票*/
-title/.打开网站:*/
-title/.KF367.com*/
-title/.(网站:*/
-title/.kf367.com*/
-title/.*guge886.com*/
-title/.*电报e*/
-title/.*seo334*/
-title/.*baping.biz*/
-title/.*seo66*/
-title/.*9527nb.com*/
-title/.*黑帽seo*/
-title/.*XSJ053*/
-title/.*ggtg8.com*/
-title/.*薇信*/
-title/.*电V*/
-title/.*yue8•cc*/
-title/.*mw93.com*/
-*://*/so.php
-*://*/so.php?s=*
-*://*/cha.php?s=*
-*://*/list.php?s=*
-*://*/?s=*
-*://*/so/*
-
-
-
-
-
-
 title/.*习近平*/
 title/.*習近平*/
 title/.*Xi Jinping*/
@@ -124,6 +72,7 @@ title/.*Donald Trump*/
 *://m.leiphone.com/*
 *://m.news.cctv.com/*
 *://m.news.cntv.cn/*
+*://m.renminbao.com/*
 *://m.sohu.com/*
 *://m.thepaper.cn/*
 *://m.vct.news/*
@@ -161,6 +110,7 @@ title/.*Donald Trump*/
 *://passiontimes.hk/*
 *://photos.caixin.com/*
 *://pincong.rocks/*
+*://politics.gmw.cn/*
 *://politics.people.com.cn/*
 *://portal.sina.com.hk/*
 *://scdaily.com/*
@@ -168,6 +118,8 @@ title/.*Donald Trump*/
 *://talk.ltn.com.tw/*
 *://taronews.tw/*
 *://tfc-taiwan.org.tw/*
+*://theinitium.com/*
+*://theory.people.com.cn/*
 *://today.line.me/*
 *://tw.esports.yahoo.com/*
 *://tw.news.yahoo.com/*
@@ -180,6 +132,7 @@ title/.*Donald Trump*/
 *://video.creaders.net/*
 *://vip.udn.com/*
 *://wap.eastmoney.com/*
+*://wap.peopleapp.com/*
 *://weekly.caixin.com/*
 *://world.chinadaily.com.cn/*
 *://world.people.com.cn/*
@@ -198,6 +151,7 @@ title/.*Donald Trump*/
 *://www.cac.gov.cn/*
 *://www.cass.cn/*
 *://www.ce.cn/*
+*://www.chinanews.com.cn/*
 *://www.chinapress.com.my/*
 *://www.chinatimes.com/*
 *://www.chineseherald.co.nz/*
@@ -206,10 +160,12 @@ title/.*Donald Trump*/
 *://www.cna.com.tw/*
 *://www.cnipa.gov.cn/*
 *://www.cnsphoto.com/*
+*://www.coolloud.org.tw/*
 *://www.cppcc.gov.cn/*
 *://www.cq.gov.cn/*
 *://www.cw.com.tw/*
 *://www.dangjian.cn/*
+*://www.dangjian.com/*
 *://www.digitimes.com.tw/*
 *://www.dw.com/*
 *://www.dzwww.com/*
@@ -220,6 +176,7 @@ title/.*Donald Trump*/
 *://www.fmprc.gov.cn/*
 *://www.fx168news.com/*
 *://www.gd.gov.cn/*
+*://www.gd.xinhuanet.com/*
 *://www.gjxfj.gov.cn/*
 *://www.gov.cn/*
 *://www.guancha.cn/*
@@ -230,6 +187,7 @@ title/.*Donald Trump*/
 *://www.hrw.org/*
 *://www.ithome.com.tw/*
 *://www.jiaxing.gov.cn/*
+*://www.jyb.cn/*
 *://www.mem.gov.cn/*
 *://www.mfa.gov.cn/*
 *://www.mirrormedia.mg/*
@@ -274,27 +232,18 @@ title/.*Donald Trump*/
 *://www.upmedia.mg/*
 *://www.voacantonese.com/*
 *://www.voachinese.com/*
+*://www.voc.com.cn/*
 *://www.wealth.com.tw/*
 *://www.wenxuecity.com/*
 *://www.worldjournal.com/*
 *://www.xinhuanet.com/*
 *://www.xuexi.cn/*
 *://www.yicai.com/*
+*://www.yzwb.net/*
 *://www.zaobao.com.sg/*
+*://zh.bitterwinter.org/*
 *://zh.vietnamplus.vn/*
 *://zhs.globalvoices.org/*
 *://zjnews.zjol.com.cn/*
 *://zqb.cyol.com/*
-*://politics.gmw.cn/*
-*://www.gd.xinhuanet.com/*
-*://www.chinanews.com.cn/*
-*://theory.people.com.cn/*
-*://zh.bitterwinter.org/*
-*://theinitium.com/*
-*://www.coolloud.org.tw/*
-*://www.voc.com.cn/*
-*://m.renminbao.com/*
-*://wap.peopleapp.com/*
-*://www.dangjian.com/*
-*://www.yzwb.net/*
-*://www.jyb.cn/*
+
