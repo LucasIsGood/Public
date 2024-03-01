@@ -780,7 +780,6 @@ title/.*mw93.com*/
 *://www.918ofa.net/*
 *://dbi88.cls6.net/*
 *://www.dingkun.tw/*
-*://support.google.com/*
 *://bb158.net/*
 *://xn--jy-1z8c70gux5a.com/*
 *://www.bofa168.com/*
@@ -1922,7 +1921,6 @@ title/.*mw93.com*/
 *://www.furongcj.com/*
 *://www.xbeibeix.com/*
 *://www.tk436.com/*
-*://books.google.com/*
 *://www.china-aseanbusiness.org.cn/*
 *://www.lxsgt.uk/*
 *://www.google.com/mymaps/*
