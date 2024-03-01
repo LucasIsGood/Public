@@ -285,3 +285,16 @@ title/.*Donald Trump*/
 *://zhs.globalvoices.org/*
 *://zjnews.zjol.com.cn/*
 *://zqb.cyol.com/*
+*://politics.gmw.cn/*
+*://www.gd.xinhuanet.com/*
+*://www.chinanews.com.cn/*
+*://theory.people.com.cn/*
+*://zh.bitterwinter.org/*
+*://theinitium.com/*
+*://www.coolloud.org.tw/*
+*://www.voc.com.cn/*
+*://m.renminbao.com/*
+*://wap.peopleapp.com/*
+*://www.dangjian.com/*
+*://www.yzwb.net/*
+*://www.jyb.cn/*
