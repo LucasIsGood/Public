@@ -1989,3 +1989,7 @@ title/.*习近平*/
 *://chinadigitaltimes.net/*
 *://www.thenewslens.com/*
 *://www.cppcc.gov.cn/*
+*://companies.caixin.com/*
+*://www.12371.cn/*
+*://www.mem.gov.cn/*
+*://www.thepaper.cn/*
