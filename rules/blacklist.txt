@@ -1932,3 +1932,10 @@ title/.*XSJ053*/
 *://donegalbowls.com/*
 *://www.tongke88.com/*
 *://mac.macxf.com/*
+
+
+
+
+
+
+*://www.epochtimes.com/*
