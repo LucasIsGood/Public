@@ -729,7 +729,6 @@ title/.*mw93.com*/
 *://www.ofa77.net/*
 *://www.club666.net/*
 *://dg38.net/*
-*://play.google.com/*
 *://rgwager.com/*
 *://www.facebook.com/*
 *://www.governmentfiling.com/*
@@ -1737,7 +1736,6 @@ title/.*mw93.com*/
 *://www.idchg.com/*
 *://2bcd.com/*
 *://boke112.com/*
-*://zh.wikihow.com/*
 *://www.ssdax.com/*
 *://www.yimenapp.com/*
 *://www.xubingtao.cn/*
