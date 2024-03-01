@@ -1938,4 +1938,5 @@ title/.*XSJ053*/
 
 
 title/.*习近平*/
+title/.*習近平*/
 *://www.epochtimes.com/*
