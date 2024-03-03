@@ -493,14 +493,6 @@ rules:
   - DOMAIN-SUFFIX,msn.com,DIRECT
 
 
-  # 屏蔽macos更新
-  - DOMAIN-SUFFIX,swdist.apple.com,REJECT
-  - DOMAIN-SUFFIX,swscan.apple.com,REJECT
-  - DOMAIN-SUFFIX,swcdn.apple.com,REJECT
-  - DOMAIN-SUFFIX,xp.apple.com,REJECT
-  - DOMAIN-SUFFIX,gdmf.apple.com,REJECT
-
-
 
 
 
