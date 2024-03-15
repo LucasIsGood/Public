@@ -151,7 +151,9 @@ title/.*Donald Trump*/
 *://world.chinadaily.com.cn/*
 *://world.people.com.cn/*
 *://www.101newsmedia.com/*
+*://www.10yan.com/*
 *://www.12371.cn/*
+*://www.81.cn/*
 *://www.881903.com/*
 *://www.8world.com/*
 *://www.abc.net.au/*
@@ -165,6 +167,7 @@ title/.*Donald Trump*/
 *://www.cac.gov.cn/*
 *://www.cass.cn/*
 *://www.ce.cn/*
+*://www.changzhou.gov.cn/*
 *://www.chinanews.com.cn/*
 *://www.chinapress.com.my/*
 *://www.chinatimes.com/*
@@ -242,6 +245,7 @@ title/.*Donald Trump*/
 *://www.thepaper.cn/*
 *://www.thepaper.cn/*
 *://www.tkww.hk/*
+*://www.tl.gov.cn/*
 *://www.trt.net.tr/*
 *://www.upmedia.mg/*
 *://www.voacantonese.com/*
@@ -260,7 +264,4 @@ title/.*Donald Trump*/
 *://zhs.globalvoices.org/*
 *://zjnews.zjol.com.cn/*
 *://zqb.cyol.com/*
-*://www.10yan.com/*
-*://www.changzhou.gov.cn/*
-*://www.81.cn/*
-*://www.tl.gov.cn/*
+
