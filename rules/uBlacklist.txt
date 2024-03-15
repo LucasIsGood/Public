@@ -295,4 +295,7 @@ title/.*Donald Trump*/
 *://zhs.globalvoices.org/*
 *://zjnews.zjol.com.cn/*
 *://zqb.cyol.com/*
-
+*://www.10yan.com/*
+*://www.changzhou.gov.cn/*
+*://www.81.cn/*
+*://www.tl.gov.cn/*
