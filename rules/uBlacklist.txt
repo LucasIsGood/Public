@@ -87,7 +87,6 @@ title/.*Donald Trump*/
 *://m.news.cctv.com/*
 *://m.news.cntv.cn/*
 *://m.renminbao.com/*
-*://m.sohu.com/*
 *://m.thepaper.cn/*
 *://m.vct.news/*
 *://m.yicai.com/*
@@ -112,7 +111,6 @@ title/.*Donald Trump*/
 *://news.now.com/*
 *://news.rthk.hk/*
 *://news.seehua.com/*
-*://news.sohu.com/*
 *://news.stcn.com/*
 *://news.tvb.com/*
 *://news.tvbs.com.tw/*
@@ -235,7 +233,6 @@ title/.*Donald Trump*/
 *://www.setn.com/*
 *://www.sinchew.com.my/*
 *://www.singtaousa.com/*
-*://www.sohu.com/*
 *://www.soundofhope.org/*
 *://www.stats.gov.cn/*
 *://www.storm.mg/*
