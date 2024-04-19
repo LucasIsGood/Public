@@ -8,7 +8,7 @@
     Westdata:
       type: http
       path: ./profiles/proxies/Westdata.yaml
-      url: https://api.fuqing.ch/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Ffuqing.ch%2Fsubscribe%2Fqzrag-8xaahhl-
+      url: https://api.wd-red.com/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Fwd-red.com%2Fsubscribe%2Fqzrag-knbj9gts
       interval: 3600
       filter: 
       health-check:
@@ -19,7 +19,7 @@
     WestdataSG:
       type: http
       path: ./profiles/proxies/WestdataSG.yaml
-      url: https://api.fuqing.ch/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Ffuqing.ch%2Fsubscribe%2Fqzrag-8xaahhl-
+      url: https://api.wd-red.com/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Fwd-red.com%2Fsubscribe%2Fqzrag-knbj9gts
       interval: 3600
       filter: 'Singapore'
       health-check:
@@ -30,7 +30,7 @@
     WestdataHK:
       type: http
       path: ./profiles/proxies/WestdataHK.yaml
-      url: https://api.fuqing.ch/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Ffuqing.ch%2Fsubscribe%2Fqzrag-8xaahhl-
+      url: https://api.wd-red.com/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Fwd-red.com%2Fsubscribe%2Fqzrag-knbj9gts
       interval: 3600
       filter: 'Hong Kong'
       health-check:
@@ -41,7 +41,7 @@
     WestdataTW:
       type: http
       path: ./profiles/proxies/WestdataTW.yaml
-      url: https://api.fuqing.ch/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Ffuqing.ch%2Fsubscribe%2Fqzrag-8xaahhl-
+      url: https://api.wd-red.com/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Fwd-red.com%2Fsubscribe%2Fqzrag-knbj9gts
       interval: 3600
       filter: 'Taiwan'
       health-check:
