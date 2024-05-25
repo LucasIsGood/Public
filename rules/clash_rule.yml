@@ -188,6 +188,25 @@
     # ------------------------------------------------
 
 
+    - DOMAIN,csgo.wmsj.cn,DIRECT
+    - DOMAIN,dl.steam.clngaa.com,DIRECT
+    - DOMAIN,dl.steam.ksyna.com,DIRECT
+    - DOMAIN,dota2.wmsj.cn,DIRECT
+    - DOMAIN,st.dl.bscstorage.net,DIRECT
+    - DOMAIN,st.dl.eccdnx.com,DIRECT
+    - DOMAIN,st.dl.pinyuncloud.com,DIRECT
+    - DOMAIN,steampipe.steamcontent.tnkjmec.com,DIRECT
+    - DOMAIN,steampowered.com.8686c.com,DIRECT
+    - DOMAIN,steamstatic.com.8686c.com,DIRECT
+    - DOMAIN,wmsjsteam.com,DIRECT
+    - DOMAIN,xz.pphimalayanrt.com,DIRECT
+    - DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
+    - DOMAIN-SUFFIX,steamchina.com,DIRECT
+    - DOMAIN-SUFFIX,steamcontent.com,DIRECT
+    - DOMAIN-SUFFIX,steamserver.net,DIRECT
+    - DOMAIN-SUFFIX,steamusercontent.com,DIRECT
+
+
     - DOMAIN-KEYWORD,youtube,Youtube
     - DOMAIN,youtubei.googleapis.com,Youtube
     - DOMAIN,yt3.ggpht.com,Youtube
@@ -243,6 +262,12 @@
     - IP-CIDR,198.45.48.0/20,Netflix,no-resolve
     - IP-CIDR,207.45.72.0/22,Netflix,no-resolve
     - IP-CIDR,208.75.76.0/22,Netflix,no-resolve
+
+
+
+
+
+
 
 
 
