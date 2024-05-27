@@ -186,8 +186,7 @@
 
 
     # ------------------------------------------------
-
-
+    # steam
     - DOMAIN,csgo.wmsj.cn,DIRECT
     - DOMAIN,dl.steam.clngaa.com,DIRECT
     - DOMAIN,dl.steam.ksyna.com,DIRECT
@@ -207,6 +206,25 @@
     - DOMAIN-SUFFIX,steamusercontent.com,DIRECT
 
 
+    # ------------------------------------------------
+    # epic games
+    - DOMAIN-SUFFIX,attlebreakers.com,DIRECT
+    - DOMAIN-SUFFIX,eac-cdn.com,DIRECT
+    - DOMAIN-SUFFIX,easy.ac,DIRECT
+    - DOMAIN-SUFFIX,easyanticheat.net,DIRECT
+    - DOMAIN-SUFFIX,epicgames.com,DIRECT
+    - DOMAIN-SUFFIX,epicgames.dev,DIRECT
+    - DOMAIN-SUFFIX,fortnite.com,DIRECT
+    - DOMAIN-SUFFIX,paragon.com,DIRECT
+    - DOMAIN-SUFFIX,playparagon.com,DIRECT
+    - DOMAIN-SUFFIX,roborecall.com,DIRECT
+    - DOMAIN-SUFFIX,shadowcomplex.com,DIRECT
+    - DOMAIN-SUFFIX,spyjinx.com,DIRECT
+    - DOMAIN-SUFFIX,unrealengine.com,DIRECT
+    - DOMAIN-SUFFIX,unrealtournament.com,DIRECT
+    - DOMAIN-SUFFIX,steamusercontent.com,DIRECT
+
+    # ------------------------------------------------
     - DOMAIN-KEYWORD,youtube,Youtube
     - DOMAIN,youtubei.googleapis.com,Youtube
     - DOMAIN,yt3.ggpht.com,Youtube
