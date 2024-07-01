@@ -7,8 +7,19 @@
   proxy-providers:
     AmyTelecom:
       type: http
-      path: ./profiles/proxies/Westdata.yaml
+      path: ./profiles/proxies/AmyTelecom.yaml
       url: https://gylcxo.xyz/?L1N1YnNjcmlwdGlvbi9DbGFzaD9zaWQ9NjAzNDAmdG9rZW49QzNsMUdSRzRIV1QmbW09NzA0MjYmNTMzNzZj
+      interval: 3600
+      filter: 
+      health-check:
+        enable: true
+        url: http://www.gstatic.com/generate_204
+        interval: 300
+
+    Westdata:
+      type: http
+      path: ./profiles/proxies/Westdata.yaml
+      url: https://api.wd-red.com/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Fwd-red.com%2Fsubscribe%2Fqzrag-knbj9gts
       interval: 3600
       filter: 
       health-check:
@@ -18,7 +29,7 @@
 
     AmyTelecomSG:
       type: http
-      path: ./profiles/proxies/WestdataSG.yaml
+      path: ./profiles/proxies/AmyTelecomSG.yaml
       url: https://gylcxo.xyz/?L1N1YnNjcmlwdGlvbi9DbGFzaD9zaWQ9NjAzNDAmdG9rZW49QzNsMUdSRzRIV1QmbW09NzA0MjYmNTMzNzZj
       interval: 3600
       filter: '新加坡'
@@ -29,7 +40,7 @@
 
     AmyTelecomHK:
       type: http
-      path: ./profiles/proxies/WestdataHK.yaml
+      path: ./profiles/proxies/AmyTelecomHK.yaml
       url: https://gylcxo.xyz/?L1N1YnNjcmlwdGlvbi9DbGFzaD9zaWQ9NjAzNDAmdG9rZW49QzNsMUdSRzRIV1QmbW09NzA0MjYmNTMzNzZj
       interval: 3600
       filter: '香港'
@@ -40,7 +51,7 @@
 
     AmyTelecomTW:
       type: http
-      path: ./profiles/proxies/WestdataTW.yaml
+      path: ./profiles/proxies/AmyTelecomTW.yaml
       url: https://gylcxo.xyz/?L1N1YnNjcmlwdGlvbi9DbGFzaD9zaWQ9NjAzNDAmdG9rZW49QzNsMUdSRzRIV1QmbW09NzA0MjYmNTMzNzZj
       interval: 3600
       filter: '台湾'
@@ -56,6 +67,7 @@
       interval: 300
       use:
         - AmyTelecom
+        - Westdata
       proxies:
         - DIRECT
 
