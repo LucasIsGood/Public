@@ -182,7 +182,7 @@
       path: ./ruleset/lancidr.yaml
       interval: 86400
   rules:
-    # onedrive直连
+    # onedrive
     - DOMAIN-SUFFIX,microsoft.com,DIRECT
     - DOMAIN-SUFFIX,storage.live.com,DIRECT
     - DOMAIN-SUFFIX,onedrive.com,DIRECT
