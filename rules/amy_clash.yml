@@ -70,12 +70,13 @@
       proxies:
         - DIRECT
 
-    - name: Netflix
+    - name: Spotify
       type: select
       url: http://www.gstatic.com/generate_204
       interval: 300
       use:
-        - AmyTelecomTW
+        - AmyTelecomHK
+        - AmyTelecomSG
 
     - name: Youtube
       # type: url-test
@@ -86,13 +87,12 @@
         - AmyTelecomHK
         - AmyTelecomSG
 
-    - name: Spotify
+    - name: Netflix
       type: select
       url: http://www.gstatic.com/generate_204
       interval: 300
       use:
-        - AmyTelecomHK
-        - AmyTelecomSG
+        - AmyTelecomTW
 
     - name: Twitch
       type: select
@@ -100,6 +100,7 @@
       interval: 300
       use:
         - Westdata
+        - AmyTelecomHK
 
   rule-providers:
     reject:
@@ -243,6 +244,7 @@
     - DOMAIN-SUFFIX,steamusercontent.com,DIRECT
 
     # ------------------------------------------------
+    # youtube
     - DOMAIN-KEYWORD,youtube,Youtube
     - DOMAIN,youtubei.googleapis.com,Youtube
     - DOMAIN,yt3.ggpht.com,Youtube
@@ -260,7 +262,8 @@
 
 
 
-
+    # ------------------------------------------------
+    # netflix
     - DOMAIN-KEYWORD,netflixdnstest,Netflix
     - DOMAIN,netflix.com.edgesuite.net,Netflix
     - DOMAIN-SUFFIX,fast.com,Netflix
@@ -301,7 +304,8 @@
 
 
 
-
+    # ------------------------------------------------
+    # twitch
     - DOMAIN-SUFFIX,ext-twitch.tv,Twitch
     - DOMAIN-SUFFIX,jtvnw.net,Twitch
     - DOMAIN-SUFFIX,live-video.net,Twitch
@@ -327,9 +331,8 @@
 
 
 
-
-
-
+    # ------------------------------------------------
+    #spotify
     - DOMAIN,audio4-ak-spotify-com.akamaized.net,Spotify
     - DOMAIN,cdn-spotify-experiments.conductrics.com,Spotify
     - DOMAIN,heads-ak-spotify-com.akamaized.net,Spotify
@@ -366,7 +369,7 @@
 
 
 
-
+    # ------------------------------------------------
     - PROCESS-NAME,v2ray,DIRECT
     - PROCESS-NAME,xray,DIRECT
     - PROCESS-NAME,naive,DIRECT
