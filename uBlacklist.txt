@@ -1,3 +1,14 @@
+*://news.sina.cn/*
+*://www.163.com/*
+*://m.sohu.com/*
+*://news.sohu.com/*
+*://www.sohu.com/*
+*://www.ftchinese.com/*
+*://www.douyin.com/*
+
+
+
+
 *://*/so.php
 *://*/so.php?s=*
 *://*/cha.php?s=*
@@ -12,6 +23,9 @@ title/.*一键访问国外网站/
 *://sites.google.com/*
 
 
+
+
+
 title/.*习近平*/
 title/.*習近平*/
 title/.*Xi Jinping*/
@@ -21,22 +35,17 @@ title/.*江泽民*/
 title/.*胡锦涛*/
 title/.*毛泽东*/
 title/.*邓小平*/
-
 title/.*蔡英文*/
 title/.*马英九*/
 title/.*蔣中正*/
 title/.*蔣介石*/
 title/.*李登辉*/
 title/.*陈水扁*/
-
 title/.*拜登*/
 title/.*川普*/
 title/.*特朗普*/
 title/.*Joe Biden*/
 title/.*Donald Trump*/
-
-
-
 *://app.xinhuanet.com/*
 *://bau.com.hk/*
 *://c.epochtimes.today/*
