@@ -5,7 +5,7 @@
 *://www.sohu.com/*
 *://www.ftchinese.com/*
 *://www.douyin.com/*
-
+*://www.tiktok.com/*
 
 
 
@@ -25,7 +25,7 @@ title/.*一键访问国外网站/
 
 
 
-
+title/.*习近平*/
 title/.*習近平*/
 title/.*Xi Jinping*/
 title/.*李克强*/
@@ -292,3 +292,50 @@ title/.*Donald Trump*/
 *://zhs.globalvoices.org/*
 *://zjnews.zjol.com.cn/*
 *://zqb.cyol.com/*
+*://jhsjk.people.cn/*
+*://politics.cntv.cn/*
+*://www.hunan.gov.cn/*
+*://www.gwytb.gov.cn/*
+*://www.legaldaily.com.cn/*
+*://guangdong.chinatax.gov.cn/*
+*://www.fuxin.gov.cn/*
+*://www.locpg.gov.cn/*
+*://www.wuhu.gov.cn/*
+*://news.cnpc.com.cn/*
+*://www.yn.gov.cn/*
+*://www.ssf.gov.cn/*
+*://www.mod.gov.cn/*
+*://h.xinhuaxmt.com/*
+*://www.nia.gov.cn/*
+*://people.ccdi.gov.cn/*
+*://www.npc.gov.cn/*
+*://kjt.shandong.gov.cn/*
+*://www.haizhu.gov.cn/*
+*://www.mee.gov.cn/*
+*://m.acftu.org/*
+*://wap.sasac.gov.cn/*
+*://content-static.cctvnews.cctv.com/*
+*://wb.beijing.gov.cn/*
+*://rlsbt.zj.gov.cn/*
+*://www.ccdi.gov.cn/*
+*://www.sasac.gov.cn/*
+*://tv.cctv.com/*
+*://www.foreignaffairs.com/*
+*://www.moj.gov.cn/*
+*://www.cs.com.cn/*
+*://news.youth.cn/*
+*://news.southcn.com/*
+*://news.cnwest.com/*
+*://news.hangzhou.com.cn/*
+*://news.changsha.cn/*
+*://sichuan.scol.com.cn/*
+*://suihua.dbw.cn/*
+*://www.qzwb.com/*
+*://www.southcn.com/*
+*://news.bandao.cn/*
+*://www.sxgov.cn/*
+*://dangjian.people.com.cn/*
+*://news.hnr.cn/*
+*://www.hangzhou.gov.cn/*
+*://atvnewsonline.com/*
+*://www.gz.gov.cn/*
