@@ -26,7 +26,6 @@ title/.*一键访问国外网站/
 
 
 
-title/.*习近平*/
 title/.*習近平*/
 title/.*Xi Jinping*/
 title/.*李克强*/
