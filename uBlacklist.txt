@@ -44,6 +44,10 @@ title/.*陈水扁*/
 title/.*拜登*/
 title/.*川普*/
 title/.*特朗普*/
+title/.*中国共产党*/
+title/.*共产党*/
+title/.*国民党*/
+title/.*中共*/
 title/.*Joe Biden*/
 title/.*Donald Trump*/
 *://app.xinhuanet.com/*
