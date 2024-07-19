@@ -1,0 +1,14 @@
+    - DOMAIN-KEYWORD,youtube,Youtube
+    - DOMAIN,youtubei.googleapis.com,Youtube
+    - DOMAIN,yt3.ggpht.com,Youtube
+    - DOMAIN-SUFFIX,googlevideo.com,Youtube
+    - DOMAIN-SUFFIX,gvt2.com,Youtube
+    - DOMAIN-SUFFIX,withyoutube.com,Youtube
+    - DOMAIN-SUFFIX,youtu.be,Youtube
+    - DOMAIN-SUFFIX,youtube-nocookie.com,Youtube
+    - DOMAIN-SUFFIX,youtube.com,Youtube
+    - DOMAIN-SUFFIX,youtubeeducation.com,Youtube
+    - DOMAIN-SUFFIX,youtubegaming.com,Youtube
+    - DOMAIN-SUFFIX,youtubekids.com,Youtube
+    - DOMAIN-SUFFIX,yt.be,Youtube
+    - DOMAIN-SUFFIX,ytimg.com,Youtube
