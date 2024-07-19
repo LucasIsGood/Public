@@ -1,0 +1,17 @@
+    - DOMAIN,csgo.wmsj.cn,Steam
+    - DOMAIN,dl.steam.clngaa.com,Steam
+    - DOMAIN,dl.steam.ksyna.com,Steam
+    - DOMAIN,dota2.wmsj.cn,Steam
+    - DOMAIN,st.dl.bscstorage.net,Steam
+    - DOMAIN,st.dl.eccdnx.com,Steam
+    - DOMAIN,st.dl.pinyuncloud.com,Steam
+    - DOMAIN,steampipe.steamcontent.tnkjmec.com,Steam
+    - DOMAIN,steampowered.com.8686c.com,Steam
+    - DOMAIN,steamstatic.com.8686c.com,Steam
+    - DOMAIN,wmsjsteam.com,Steam
+    - DOMAIN,xz.pphimalayanrt.com,Steam
+    - DOMAIN-SUFFIX,cm.steampowered.com,Steam
+    - DOMAIN-SUFFIX,steamchina.com,Steam
+    - DOMAIN-SUFFIX,steamcontent.com,Steam
+    - DOMAIN-SUFFIX,steamserver.net,Steam
+    - DOMAIN-SUFFIX,steamusercontent.com,Steam
