@@ -1,19 +1,19 @@
-- HOST-SUFFIX,microsoft.com,Onedrive
-- HOST-SUFFIX,storage.live.com,Onedrive
-- HOST-SUFFIX,onedrive.com,Onedrive
-- HOST-SUFFIX,mesh.com,Onedrive
-- HOST-SUFFIX,sfx.ms,Onedrive
-- HOST-SUFFIX,svc.ms,Onedrive
-- HOST-SUFFIX,office.com,Onedrive
-- HOST-SUFFIX,fabric.io,Onedrive
-- HOST-SUFFIX,sharepoint.com,Onedrive
-- HOST-SUFFIX,1drv.com,Onedrive
-- HOST-SUFFIX,live.net,Onedrive
-- HOST-SUFFIX,windows.net,Onedrive
-- HOST-SUFFIX,microsoftonline.com,Onedrive
-- HOST-SUFFIX,adjust.com,Onedrive
-- HOST-SUFFIX,branch.io,Onedrive
-- HOST-SUFFIX,spoprod-a.akamaihd.net,Onedrive
-- HOST-SUFFIX,crashlytics.com,Onedrive
-- HOST-SUFFIX,tokensit.cp.microsoft-tst.com,Onedrive
-- HOST-SUFFIX,msn.com,Onedrive
+HOST-SUFFIX,microsoft.com,Onedrive
+HOST-SUFFIX,storage.live.com,Onedrive
+HOST-SUFFIX,onedrive.com,Onedrive
+HOST-SUFFIX,mesh.com,Onedrive
+HOST-SUFFIX,sfx.ms,Onedrive
+HOST-SUFFIX,svc.ms,Onedrive
+HOST-SUFFIX,office.com,Onedrive
+HOST-SUFFIX,fabric.io,Onedrive
+HOST-SUFFIX,sharepoint.com,Onedrive
+HOST-SUFFIX,1drv.com,Onedrive
+HOST-SUFFIX,live.net,Onedrive
+HOST-SUFFIX,windows.net,Onedrive
+HOST-SUFFIX,microsoftonline.com,Onedrive
+HOST-SUFFIX,adjust.com,Onedrive
+HOST-SUFFIX,branch.io,Onedrive
+HOST-SUFFIX,spoprod-a.akamaihd.net,Onedrive
+HOST-SUFFIX,crashlytics.com,Onedrive
+HOST-SUFFIX,tokensit.cp.microsoft-tst.com,Onedrive
+HOST-SUFFIX,msn.com,Onedrive
