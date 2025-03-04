@@ -1,0 +1,21 @@
+# NAME: Epic Games
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:14:50
+# HOST-SUFFIX: 15
+# TOTAL: 15
+HOST-SUFFIX,battlebreakers.com,Epic Games
+HOST-SUFFIX,eac-cdn.com,Epic Games
+HOST-SUFFIX,easy.ac,Epic Games
+HOST-SUFFIX,easyanticheat.net,Epic Games
+HOST-SUFFIX,epicgames.com,Epic Games
+HOST-SUFFIX,epicgames.dev,Epic Games
+HOST-SUFFIX,fortnite.com,Epic Games
+HOST-SUFFIX,helpshift.com,Epic Games
+HOST-SUFFIX,paragon.com,Epic Games
+HOST-SUFFIX,playparagon.com,Epic Games
+HOST-SUFFIX,roborecall.com,Epic Games
+HOST-SUFFIX,shadowcomplex.com,Epic Games
+HOST-SUFFIX,spyjinx.com,Epic Games
+HOST-SUFFIX,unrealengine.com,Epic Games
+HOST-SUFFIX,unrealtournament.com,Epic Games
