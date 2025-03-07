@@ -13,6 +13,11 @@ title/.*一键访问国外网站/
 
 
 
+*://www.epochtimes.com/*
+*://www.rfa.org/*
+*://pincong.rocks/*
+
+
 
 title/.*习近平*/
 title/.*習近平*/
