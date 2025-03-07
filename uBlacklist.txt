@@ -1,13 +1,3 @@
-*://news.sina.cn/*
-*://www.163.com/*
-*://m.sohu.com/*
-*://news.sohu.com/*
-*://www.sohu.com/*
-*://www.ftchinese.com/*
-*://www.douyin.com/*
-*://www.tiktok.com/*
-
-
 *://*/so.php
 *://*/so.php?s=*
 *://*/cha.php?s=*
@@ -24,32 +14,7 @@ title/.*一键访问国外网站/
 
 
 
-title/.*习近平*/
-title/.*習近平*/
-title/.*Xi Jinping*/
-title/.*李克强*/
-title/.*李强*/
-title/.*江泽民*/
-title/.*胡锦涛*/
-title/.*毛泽东*/
-title/.*邓小平*/
-title/.*胡耀邦*/
-title/.*蔡英文*/
-title/.*马英九*/
-title/.*蔣中正*/
-title/.*蔣介石*/
-title/.*李登辉*/
-title/.*陈水扁*/
-title/.*拜登*/
-title/.*川普*/
-title/.*特朗普*/
-title/.*中国共产党*/
-title/.*共产党*/
-title/.*国民党*/
-title/.*中共*/
-title/.*社会主义*/
-title/.*Joe Biden*/
-title/.*Donald Trump*/
+
 *://app.xinhuanet.com/*
 *://bau.com.hk/*
 *://c.epochtimes.today/*
@@ -344,3 +309,33 @@ title/.*Donald Trump*/
 *://www.hangzhou.gov.cn/*
 *://atvnewsonline.com/*
 *://www.gz.gov.cn/*
+
+
+
+
+title/.*习近平*/
+title/.*習近平*/
+title/.*Xi Jinping*/
+title/.*李克强*/
+title/.*李强*/
+title/.*江泽民*/
+title/.*胡锦涛*/
+title/.*毛泽东*/
+title/.*邓小平*/
+title/.*胡耀邦*/
+title/.*蔡英文*/
+title/.*马英九*/
+title/.*蔣中正*/
+title/.*蔣介石*/
+title/.*李登辉*/
+title/.*陈水扁*/
+title/.*拜登*/
+title/.*川普*/
+title/.*特朗普*/
+title/.*中国共产党*/
+title/.*共产党*/
+title/.*国民党*/
+title/.*中共*/
+title/.*社会主义*/
+title/.*Joe Biden*/
+title/.*Donald Trump*/
