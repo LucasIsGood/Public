@@ -51,9 +51,7 @@ title/.*一键访问国外网站/
 *://global.udn.com/*
 *://history.creaders.net/*
 *://hk.epochtimes.com/*
-*://hk.finance.yahoo.com/*
 *://hk.investing.com/*
-*://hk.news.yahoo.com/*
 *://hk.on.cc/*
 *://ici.radio-canada.ca/*
 *://inews.hket.com/*
@@ -121,9 +119,6 @@ title/.*一键访问国外网站/
 *://theory.people.com.cn/*
 *://today.line.me/*
 *://topick.hket.com/*
-*://tw.esports.yahoo.com/*
-*://tw.news.yahoo.com/*
-*://tw.stock.yahoo.com/*
 *://udn.com/*
 *://unwire.hk/*
 *://usa.people.com.cn/*
